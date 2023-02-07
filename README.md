@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/marco-nguyen-64399b160/">
         <img alt="Linkedin" title="View my Linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-orange?style=for-the-badge&logo=mention&logoColor=white"/></a>
 </p>
----
+
 ## Hi !!! 👋
 I am currently a third-year student at VNUHCM - University of Science. Here is some info about me!!!
 
