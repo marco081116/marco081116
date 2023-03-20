@@ -9,8 +9,8 @@ I am currently a third-year student at VNUHCM - University of Science. Here is s
 
 🕕 Interests:
 - Machine Learning
-- Data Analytics
-- iOS Developer
+- Data Science
+- Python developer
 
 ## Reach me by:
 <p align="left">
